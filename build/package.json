@@ -1,0 +1,8 @@
+{
+  "name": "ai-security-risk-addon-build",
+  "private": true,
+  "description": "Builds the guidance and quick guide (.docx) for the AI Security Risk Add-on",
+  "dependencies": {
+    "docx": "9.7.1"
+  }
+}
